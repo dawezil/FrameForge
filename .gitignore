@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# PyInstaller/build output
+.build/
+build/
+dist/
+
+# Inno Setup output
+installer/Output/
+
+# Archives
+*.zip
+
+# IDE/editor
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store

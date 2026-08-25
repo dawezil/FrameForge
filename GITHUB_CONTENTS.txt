@@ -1,0 +1,17 @@
+FrameForge GitHub source package
+
+Included:
+- Source Python files
+- Runtime assets
+- PyInstaller specification
+- PowerShell build script
+- Inno Setup script
+- Requirements
+- README and LICENSE
+- Installer build instructions
+
+Excluded:
+- .venv
+- PyInstaller build/dist output
+- downloaded FFmpeg archive
+- generated installer output
